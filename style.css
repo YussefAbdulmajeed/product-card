@@ -87,6 +87,11 @@ body {
     display: flex;
     justify-content: center;
     border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: hsl(158, 37%, 17%);
 }
 
 .btn a {
